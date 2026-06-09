@@ -12,7 +12,7 @@ public class NewBehaviourScript : MonoBehaviour, IDragHandler
     public RectTransform handleRect;
 
     private RectTransform parentRect;
-    private float currentRatio = 0.7f; // 画面の分割比率（0.0 〜 1.0）
+    private float currentRatio = 1f; // 画面の分割比率（0.0 〜 1.0）
 
     void Start()
     {

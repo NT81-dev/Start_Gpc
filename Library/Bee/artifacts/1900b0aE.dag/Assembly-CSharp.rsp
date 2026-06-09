@@ -354,7 +354,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/RE4_Button.cs"
+"Assets/Scripts/ButtonHoverHandler.cs"
 "Assets/Scripts/FlexibleUIController.cs"
+"Assets/Scripts/InfoPanelController.cs"
+"Assets/Scripts/UIWaveformRenderer.cs"
 -langversion:9.0
 /deterministic
 /optimize+
